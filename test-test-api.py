@@ -1,0 +1,25 @@
+import time
+
+print('This is not a real testing file')
+print('')
+print('this is just meant to simulate how a real test file would execute in Jenkins')
+
+print('Recovering built files...')
+time.sleep(5)
+
+print('Newly built project found.')
+print('Executing initial loading test')
+time.sleep(3)
+print('Loading test successful!')
+print('')
+print('Executing UI Tests')
+time.sleep(3)
+print('No visual artifacts found')
+print('No Unresponsive button found')
+print('Button redirections working')
+print('Login/Logout functions nominal')
+print('UI tests successful')
+print('API Tests Successful')
+print('Closing Test Environment')
+time.sleep(3)
+print('kurva vagy')
